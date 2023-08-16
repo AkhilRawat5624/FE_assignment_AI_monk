@@ -1,0 +1,20 @@
+.tag {
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.tag-header {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+   background-color: rgb(63, 162, 202);
+   height: 30px;
+}
+.tag-content {
+    display: none;
+    margin-left: 20px;
+   
+}
+.tag-name{
+    background-color: rgb(63, 162, 202);
+}
+
